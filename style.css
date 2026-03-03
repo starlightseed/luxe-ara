@@ -401,8 +401,8 @@ body {
 @keyframes popupScale {
     from { transform: scale(0.7); opacity: 0; }
     to { transform: scale(1); opacity: 1; }
-
 }
+
 .bottom-nav {
     position: fixed;
     bottom: 0;
